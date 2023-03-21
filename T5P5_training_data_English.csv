@@ -1,0 +1,122 @@
+Input,Output
+"Soccer Jersey, Soccer Ball, Soccer Cleats, Goalie Gloves, Soccer Goal Post, Soccer Cones",Soccer Shin Guards
+"Basketball Jersey, Basketball, Basketball Shoes, Basketball Arm Sleeve, Basketball Hoop",Basketball Shorts
+"Football Jersey, Football, Football Cleats, Football Shoulder Pads",Football Helmet
+"Baseball Jersey, Baseball, Baseball Cleats, Baseball Cap, Baseball Bat",Baseball Glove
+"Tennis Shirt, Tennis Ball, Tennis Shoes",Tennis Racket
+"Hockey Jersey, Hocket Puck, Hockey Helmet, Hockey Skates, Hockey Stick",Hockey Pads
+"Soccer Jersey, Basketball Jersey, Football Jersey, Baseball Jersey, Tennis Shirt",Hockey Jersey
+"Soccer Ball, Basketball, Football, Baseball, Tennis Ball",Hockey Puck
+"Soccer Cleats, Basketball Shoes, Football Cleats, Baseball Cleats, Tennis Shoes",Hockey Skates
+"Football Helmet, Baseball Cap",Hockey Helmet
+"Tennis Racket, Hockey Stick",Baseball Bat
+"Soccer Shin Guards, Football Shoulder Pads",Hockey Pads
+Soccer Goal Post,Basketball Hoop
+Soccer Shorts,Basketball Shorts
+"Soccer Jersey, Soccer Ball, Soccer Cleats, Goalie Gloves, Soccer Goal Post, Soccer Shin Guards",Soccer Cones
+"Soccer Jersey, Soccer Ball, Soccer Cleats, Goalie Gloves, Soccer Shin Guards, Soccer Cones",Soccer Goal Post
+"Soccer Jersey, Soccer Ball, Soccer Cleats, Soccer Shin Guards, Soccer Goal Post, Soccer Cones",Goalie Gloves
+"Soccer Jersey, Soccer Ball, Soccer Shin Guards, Goalie Gloves, Soccer Goal Post, Soccer Cones",Soccer Cleats
+"Soccer Jersey, Soccer Shin Guards, Soccer Cleats, Goalie Gloves, Soccer Goal Post, Soccer Cones",Soccer Ball
+"Soccer Shin Guards, Soccer Ball, Soccer Cleats, Goalie Gloves, Soccer Goal Post, Soccer Cones",Soccer Jersey
+"Basketball Jersey, Basketball, Basketball Shoes, Basketball Arm Sleeve, Basketball Shorts",Basketball Hoop
+"Basketball Jersey, Basketball, Basketball Shoes, Basketball Shorts, Basketball Hoop",Basketball Arm Sleeve
+"Basketball Jersey, Basketball, Basketball Shorts, Basketball Arm Sleeve, Basketball Hoop",Basketball Shoes
+"Basketball Jersey, Basketball Shorts, Basketball Shoes, Basketball Arm Sleeve, Basketball Hoop",Basketball
+"Basketball Shorts, Basketball, Basketball Shoes, Basketball Arm Sleeve, Basketball Hoop",Basketball Jersey
+"Football Jersey, Football, Football Cleats, Football Helmet",Football Shoulder Pads
+"Football Jersey, Football, Football Helmet, Football Shoulder Pads",Football Cleats
+"Football Jersey, Football Helmet, Football Cleats, Football Shoulder Pads",Football
+"Football Helmet, Football, Football Cleats, Football Shoulder Pads",Football Jersey
+"Baseball Jersey, Baseball, Baseball Cleats, Baseball Cap, Baseball Glove",Baseball Bat
+"Baseball Jersey, Baseball, Baseball Cleats, Baseball Glove, Baseball Bat",Baseball Cap
+"Baseball Jersey, Baseball, Baseball Glove, Baseball Cap, Baseball Bat",Baseball Cleats
+"Baseball Jersey, Baseball Glove, Baseball Cleats, Baseball Cap, Baseball Bat",Baseball
+"Baseball Glove, Baseball, Baseball Cleats, Baseball Cap, Baseball Bat",Baseball Jersey
+"Tennis Shirt, Tennis Ball, Tennis Racket",Tennis Shoes
+"Tennis Shirt, Tennis Racket, Tennis Shoes",Tennis Ball
+"Tennis Racket, Tennis Ball, Tennis Shoes",Tennis Shirt
+"Hockey Jersey, Hocket Puck, Hockey Helmet, Hockey Skates, Hockey Pads",Hockey Stick
+"Hockey Jersey, Hocket Puck, Hockey Helmet, Hockey Pads, Hockey Stick",Hockey Skates
+"Hockey Jersey, Hocket Puck, Hockey Pads, Hockey Skates, Hockey Stick",Hockey Helmet
+"Hockey Jersey, Hockey Pads, Hockey Helmet, Hockey Skates, Hockey Stick",Hockey Puck
+"Hockey Pads, Hocket Puck, Hockey Helmet, Hockey Skates, Hockey Stick",Hockey Jersey
+"Soccer Jersey, Basketball Jersey, Football Jersey, Baseball Jersey, Hockey Jersey",Tennis Shirt
+"Soccer Jersey, Basketball Jersey, Football Jersey, Hockey Jersey, Tennis Shirt",Baseball Jersey
+"Soccer Jersey, Basketball Jersey, Hockey Jersey, Baseball Jersey, Tennis Shirt",Football Jersey
+"Soccer Jersey, Hockey Jersey, Football Jersey, Baseball Jersey, Tennis Shirt",Basketball Jersey
+"Hockey Jersey, Basketball Jersey, Football Jersey, Baseball Jersey, Tennis Shirt",Soccer Jersey
+"Soccer Ball, Basketball, Football, Baseball, Hockey Puck",Tennis Ball
+"Soccer Ball, Basketball, Football, Hockey Puck, Tennis Ball",Baseball
+"Soccer Ball, Basketball, Hockey Puck, Baseball, Tennis Ball",Football
+"Soccer Ball, Hockey Puck, Football, Baseball, Tennis Ball",Basketball
+"Hockey Puck, Basketball, Football, Baseball, Tennis Ball",Soccer Ball
+"Soccer Cleats, Basketball Shoes, Football Cleats, Baseball Cleats, Hockey Skates",Tennis Shoes
+"Soccer Cleats, Basketball Shoes, Football Cleats, Hockey Skates, Tennis Shoes",Baseball Cleats
+"Soccer Cleats, Basketball Shoes, Hockey Skates, Baseball Cleats, Tennis Shoes",Football Cleats
+"Soccer Cleats, Hockey Skates, Football Cleats, Baseball Cleats, Tennis Shoes",Basketball Shoes
+"Hockey Skates, Basketball Shoes, Football Cleats, Baseball Cleats, Tennis Shoes",Soccer Cleats
+"Football Helmet, Hockey Helmet",Baseball Cap
+"Hockey Helmet, Baseball Cap",Football Helmet
+"Soccer Shin Guards, Hockey Pads",Football Shoulder Pads
+"Hockey Pads, Football Shoulder Pads",Soccer Shin Guards
+Basketball Hoop,Soccer Goal Post
+Basketball Shorts,Soccer Shorts
+"Soccer Jersey, Soccer Ball, Soccer Cleats, Goalie Gloves, Soccer Goal Post",Soccer Cones
+"Soccer Jersey, Soccer Ball, Soccer Cleats, Goalie Gloves, Soccer Cones",Soccer Goal Post
+"Soccer Jersey, Soccer Ball, Soccer Cleats, Soccer Cones, Soccer Goal Post",Goalie Gloves
+"Soccer Jersey, Soccer Ball, Soccer Cones, Goalie Gloves, Soccer Goal Post",Soccer Cleats
+"Soccer Jersey, Soccer Cones, Soccer Cleats, Goalie Gloves, Soccer Goal Post",Soccer Ball
+"Soccer Cones, Soccer Ball, Soccer Cleats, Goalie Gloves, Soccer Goal Post",Soccer Jersey
+"Basketball Jersey, Basketball, Basketball Shoes, Basketball Arm Sleeve",Basketball Hoop
+"Basketball Jersey, Basketball, Basketball Shoes, Basketball Hoop",Basketball Arm Sleeve
+"Basketball Jersey, Basketball, Basketball Hoop, Basketball Arm Sleeve",Basketball Shoes
+"Basketball Jersey, Basketball Hoop, Basketball Shoes, Basketball Arm Sleeve",Basketball
+"Basketball Hoop, Basketball, Basketball Shoes, Basketball Arm Sleeve",Basketball Jersey
+"Football Jersey, Football, Football Cleats",Football Shoulder Pads
+"Football Jersey, Football, Football Shoulder Pads",Football Cleats
+"Football Jersey, Football Shoulder Pads, Football Cleats",Football
+"Football Shoulder Pads, Football, Football Cleats",Football Jersey
+"Baseball Jersey, Baseball, Baseball Cleats, Baseball Cap",Baseball Bat
+"Baseball Jersey, Baseball, Baseball Cleats, Baseball Bat",Baseball Cap
+"Baseball Jersey, Baseball, Baseball Bat, Baseball Cap",Baseball Cleats
+"Baseball Jersey, Baseball Bat, Baseball Cleats, Baseball Cap",Baseball
+"Baseball Bat, Baseball, Baseball Cleats, Baseball Cap",Baseball Jersey
+"Tennis Shirt, Tennis Ball",Tennis Shoes
+"Tennis Shirt, Tennis Shoes",Tennis Shoes
+"Tennis Shoes, Tennis Ball",Tennis Shoes
+"Hockey Jersey, Hocket Puck, Hockey Helmet, Hockey Skates",Hockey Stick
+"Hockey Jersey, Hocket Puck, Hockey Helmet, Hockey Stick",Hockey Skates
+"Hockey Jersey, Hocket Puck, Hockey Stick, Hockey Skates",Hockey Helmet
+"Hockey Jersey, Hockey Stick, Hockey Helmet, Hockey Skates",Hockey Puck
+"Hockey Stick, Hocket Puck, Hockey Helmet, Hockey Skates",Hockey Jersey
+"Soccer Jersey, Basketball Jersey, Football Jersey, Baseball Jersey",Tennis Shirt
+"Soccer Jersey, Basketball Jersey, Football Jersey, Tennis Shirt",Baseball Jersey
+"Soccer Jersey, Basketball Jersey, Tennis Shirt, Baseball Jersey",Football Jersey
+"Soccer Jersey, Tennis Shirt, Football Jersey, Baseball Jersey",Basketball Jersey
+"Tennis Shirt, Basketball Jersey, Football Jersey, Baseball Jersey",Soccer Jersey
+"Soccer Ball, Basketball, Football, Baseball",Tennis Ball
+"Soccer Ball, Basketball, Football, Tennis Ball",Baseball
+"Soccer Ball, Basketball, Tennis Ball, Baseball",Football
+"Soccer Ball, Tennis Ball, Football, Baseball",Basketball
+"Tennis Ball, Basketball, Football, Baseball",Soccer Ball
+"Soccer Cleats, Basketball Shoes, Football Cleats, Baseball Cleats",Tennis Shoes
+"Soccer Cleats, Basketball Shoes, Football Cleats, Tennis Shoes",Baseball Cleats
+"Soccer Cleats, Basketball Shoes, Tennis Shoes, Baseball Cleats",Football Cleats
+"Soccer Cleats, Tennis Shoes, Football Cleats, Baseball Cleats",Basketball Shoes
+"Tennis Shoes, Basketball Shoes, Football Cleats, Baseball Cleats",Soccer Cleats
+Football Helmet,Baseball Cap
+Baseball Cap,Football Helmet
+Tennis Racket,Hockey Stick
+Hockey Stick,Tennis Racket
+Soccer Shin Guards,Football Shoulder Pads
+Football Shoulder Pads,Soccer Shin Guards
+"Soccer Jersey, Soccer Ball, Soccer Cleats, Goalie Gloves",Soccer Goal Post
+"Soccer Jersey, Soccer Ball, Soccer Cleats, Soccer Goal Post",Goalie Gloves
+"Soccer Jersey, Soccer Ball, Soccer Goal Post, Goalie Gloves",Soccer Cleats
+"Soccer Jersey, Soccer Goal Post, Soccer Cleats, Goalie Gloves",Soccer Ball
+"Soccer Goal Post, Soccer Ball, Soccer Cleats, Goalie Gloves",Soccer Jersey
+"Basketball Jersey, Basketball, Basketball Shoes",Basketball Arm Sleeve
+"Basketball Jersey, Basketball, Basketball Arm Sleeve",Basketball Shoes
+"Basketball Jersey, Basketball Arm Sleeve, Basketball Shoes",Basketball
+"Basketball Arm Sleeve, Basketball, Basketball Shoes",Basketball Jersey
